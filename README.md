@@ -6,6 +6,7 @@ Hopefully useful techniques for TypeScript in practice.
 
 - [All Articles](https://github.com/vilic/typescript-techniques/labels/article)
 - [Type Constraints on Multiple Parameters](https://github.com/vilic/typescript-techniques/issues/1)
+- [Function Signature Degradation](https://github.com/vilic/typescript-techniques/issues/2)
 
 ## Copyright
 
